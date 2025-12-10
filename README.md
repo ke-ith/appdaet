@@ -1,4 +1,4 @@
-Final Project Proposal for our subject _APPDAET. _
+Final Project Proposal for our subject APPDAET.
 
 Project Title: WeatherSense App: Real-Time Weather Monitoring and Forecast Visualization using Tkinter and Open-Meteo API
 
